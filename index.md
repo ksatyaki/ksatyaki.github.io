@@ -54,7 +54,7 @@ Notice that the above example is only if we need to generate a GMMT-map from the
 
 ## Multi-agent coordination based Simulation
 
-- Repository available (here)[https://github.com/FedericoPecora/coordination_oru].
+- Repository available [here](https://github.com/FedericoPecora/coordination_oru).
 - For our simulation we need the `uncontrollable-robots-pedestrians` branch!
 - Take a look at the [directory here](https://github.com/FedericoPecora/coordination_oru/tree/uncontrollable-robots-pedestrians/src/main/java/se/oru/coordination/coordination_oru/tests/testsPedestrians)
 - It contains the `MultiplePedestriansAndRobot.java` file and other scripts that make it easier to run several tests together. :-)
