@@ -17,7 +17,7 @@
 ### Instructions and examples
 Some programs such as the `gmmtmap.py` in `useful_scripts` require that the input data file is in the ATC format (the same format used in the ATC dataset), but ordered by trajectory id.
 The `useful_scripts` package contains many programs that help us convert files to the ATC format, or cut out pedestrian data at specific times, etc.
-For example, the `split_into_segmets.py` is used as follows: 
+For example, the `split_into_segments.py` is used as follows: 
  - Data generated from PedSim is available as a ROS-bag file. Let's call this `data1.bag`
  - This data is converted to ATC format using `spencer_rosbag_to_atc.py` &rarr; data1.csv
  - We need to order this data using the `id` of the object. So we run `order_by_id.py` &rarr; data1_ordered.csv
