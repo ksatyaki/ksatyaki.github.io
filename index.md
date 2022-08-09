@@ -59,3 +59,6 @@ Notice that the above example is only if we need to generate a GMMT-map from the
 - Take a look at the [directory here](https://github.com/FedericoPecora/coordination_oru/tree/uncontrollable-robots-pedestrians/src/main/java/se/oru/coordination/coordination_oru/tests/testsPedestrians)
 - It contains the `MultiplePedestriansAndRobot.java` file and other scripts that make it easier to run several tests together. :-)
 - Don't forget to contact me via github if you have any questions! 
+
+## Data used in the experiments: 
+- Paper 1 under https://gitsvn-nt.oru.se/ksatyaki/mod_journal_stats
